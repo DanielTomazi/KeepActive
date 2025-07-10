@@ -79,6 +79,8 @@ pyinstaller --onefile --name=KeepActive KeepActive.py
 
 O executável será criado em `dist/KeepActive.exe` e pode ser usado sem ter Python instalado.
 
+A aplicação também pode ser executada diretamente em um ambiente de desenvolvimento, como o PyCharm. Basta baixar o projeto, abri-lo e executá-lo, desde que as dependências e demais requisitos estejam instalados.
+
 ## Configurações Padrão
 
 - Intervalo: 60 segundos
