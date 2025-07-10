@@ -1,6 +1,3 @@
-"""
-Script para criar executável do KeepActive usando PyInstaller
-"""
 import os
 import subprocess
 import sys

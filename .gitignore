@@ -1,0 +1,50 @@
+# PyInstaller
+# Estas pastas e arquivos são gerados automaticamente pelo PyInstaller
+# e não devem ser versionados no repositório
+
+# Pasta de build do PyInstaller
+build/
+
+# Pasta de distribuição (onde fica o executável)
+dist/
+
+# Arquivo de especificação gerado automaticamente
+*.spec
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de distribuição
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
